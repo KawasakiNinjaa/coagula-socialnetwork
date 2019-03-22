@@ -159,7 +159,6 @@ exports.updatePfWithPass = function updatePfWithPass(
     UPDATE users
     SET first= $1, last= $2, email=$3, password=$4, city=$5, country=$6
     WHERE id=$7
-
     `;
     let params = [first, last, email, password, city, country, userId];
 
