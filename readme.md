@@ -20,6 +20,8 @@ Coagula is a social network in a single-page application format.
 
 ### Login / SignUp
 
+<img src="public/coagula1.gif" width= 790 height= 400>
+
 ### ProfilePic- upload with AWS S3
 
 ### Bio
